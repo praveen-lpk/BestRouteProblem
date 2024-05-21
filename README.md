@@ -16,9 +16,11 @@ Below is the high level explaination of the code
 
 Given sample with random latitudes and longitudes
 
-<img width="519" alt="Screenshot 2024-05-22 at 3 29 28 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/eb0e8400-8fdb-42ab-bf24-c57c2e889dee">
+<img width="450" alt="Screenshot 2024-05-22 at 3 37 12 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/db1f909d-f7d7-42c2-a737-d41e2cdbe6ea">
+
+
 
 If there are 3 orders from 3 consumers in 3 different restaurants(with random latitudes and longitudes)
 
-<img width="597" alt="Screenshot 2024-05-22 at 3 32 42 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/3df02a2d-6cd4-40ab-a7e8-cf4ba44e9d59">
+<img width="537" alt="Screenshot 2024-05-22 at 3 36 37 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/c0d9634e-0ecf-4090-a9c9-8c2ab9f33ecf">
 
