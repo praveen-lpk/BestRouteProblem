@@ -22,5 +22,5 @@ Given sample with random latitudes and longitudes
 
 If there are 3 orders from 3 consumers in 3 different restaurants(with random latitudes and longitudes)
 
-<img width="537" alt="Screenshot 2024-05-22 at 3 36 37 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/c0d9634e-0ecf-4090-a9c9-8c2ab9f33ecf">
 
+<img width="586" alt="Screenshot 2024-05-22 at 3 38 05 AM" src="https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/331761e3-fd8e-479a-972d-49f1e3cf9b5a">
