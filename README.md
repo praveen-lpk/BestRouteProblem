@@ -1,4 +1,4 @@
-![Screenshot 2024-03-25 at 5 31 07 PM](https://github.com/praveen-lpk/BestRouteProblem/assets/59311248/16d3c276-7a77-4e34-a047-65fd106601fd)The code provides the optimal route which delivery executive can chose if there are n orders from n consumers.
+The code provides the optimal route which delivery executive can chose if there are n orders from n consumers.
 Below are the assumptions:
 1. All the restaurant names are unique. There is only one restaurant with certain name.
 2. All consumer names are unique. There is only one consumer with certain name.
