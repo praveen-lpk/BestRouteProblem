@@ -1,4 +1,4 @@
-The code provides the optimal route the delivery executive can travel if there are n orders from n consumers.
+The code provides the optimal route which delivery executive can chose if there are n orders from n consumers.
 Below are the assumptions:
 1. All the restaurant names are unique. There is only one restaurant with certain name.
 2. All consumer names are unique. There is only one consumer with certain name.
