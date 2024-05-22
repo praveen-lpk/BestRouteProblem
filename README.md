@@ -1,16 +1,26 @@
-The code provides the optimal route which delivery executive can chose if there are n orders from n consumers.
-**Below are the assumptions:**
-1. All the restaurant names are unique. There is only one restaurant with certain name.
-2. All consumer names are unique. There is only one consumer with certain name.
-3. All the orders came at the same time and each order is from different restaurant.
+This repository provides a solution to determine the optimal route for a delivery executive to take when there are multiple orders from different consumers. The solution is based on the following assumptions:
+
+1. All restaurant names are unique; each name corresponds to only one restaurant.
+2. All consumer names are unique; each name corresponds to only one consumer.
+3. All orders are placed simultaneously, and each order comes from a different restaurant.
 
 
+**Overview**
+The provided code calculates the most efficient path for a delivery executive to follow in order to deliver multiple orders. The process involves:
 
-Below is the high level explaination of the code
-1. We'll create list of orders which has consumer and restaurant details.
-2. We'll generate all possible paths the executive can take.
-3. We'll calculate the time taken by executive to deliver all the orders in particular path. We'll use harvesine formula to calculate distance.
-4. We'll find the shortest time consuming path and share with the executive.
+1. **Creating a List of Orders:** Each order contains details of the associated consumer and restaurant.
+2. **Generating All Possible Paths:** The code generates all potential routes that the delivery executive can take to complete the deliveries.
+3. **Calculating Delivery Times:** For each potential path, the code calculates the total time required for the executive to deliver all orders using the Haversine formula to compute distances.
+4. **Finding the Optimal Path:** The code identifies the path that requires the least time and suggests this route to the delivery executive.
+
+**Implementation Details**
+**Order Class:** Contains consumer and restaurant details.
+**Path Generation:** Generates all permutations of restaurant-consumer pairs to cover all possible routes.
+**Time Calculation:** Uses the Haversine formula to calculate distances between locations and computes total delivery time for each path.
+**Optimization:** Identifies the path with the shortest delivery time and outputs it.
+
+This approach ensures that the delivery executive can complete all deliveries in the most time-efficient manner possible.
+
 
 **Test result:**
 
