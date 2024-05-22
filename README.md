@@ -17,8 +17,11 @@ The provided code calculates the most efficient path for a delivery executive to
 **Implementation Details**
 
 **Order Class:** Contains consumer and restaurant details.
+
 **Path Generation:** Generates all permutations of restaurant-consumer pairs to cover all possible routes.
+
 **Time Calculation:** Uses the Haversine formula to calculate distances between locations and computes total delivery time for each path.
+
 **Optimization:** Identifies the path with the shortest delivery time and outputs it.
 
 This approach ensures that the delivery executive can complete all deliveries in the most time-efficient manner possible.
